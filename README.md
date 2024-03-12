@@ -61,3 +61,4 @@ DELETE FROM usertbl WHERE userid = 'user003';
 
 **[dbforge에서 다이어그램]**
 
+![1 PNG](https://github.com/OhSuYeong/project-2/assets/101083171/41b4931e-bd5c-49d4-9b60-e5bdca5803d5)
